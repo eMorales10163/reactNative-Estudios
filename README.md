@@ -1,2 +1,2 @@
 # reactNative-Estudios
-Curso de react nativa
+Curso de react native
